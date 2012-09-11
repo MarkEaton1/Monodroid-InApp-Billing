@@ -5,19 +5,21 @@ C# classes needed to use in-app billing for Monodroid
 
 This has been designed for Android 2.0 and up. Has been fully tested for managed products with real money in the following scenarios:
 
-billing supported for managed products
-billing supported for subscriptions
-purchased
-cancelled
-restore transactions
-refund
-item unavailable
-database updated
-Althought the code is all there it hasn't been tested for the following scenarios:
+- billing supported for managed products
+- billing supported for subscriptions
+- purchased
+- cancelled
+- restore transactions
+- refund
+- item unavailable
+- database updated 
 
-2 managed purchases quickly
-subscriptions
-unmanaged products
+Although the code is all there it hasn't been tested for the following scenarios:
+
+- 2 managed purchases quickly
+- subscriptions
+- unmanaged products
+
 Please study the Android official documentation for testing in-app billing. Particularly with test accounts as there is some setup instructions you will need to follow in that documentation.
 
 Also I have used Json.Net as part of the in-app billing (dll included).
