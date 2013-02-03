@@ -28,4 +28,6 @@ As I work fulltime, all my Monodroid work is part time in my own hours. As such 
 
 Please feel free as a community to make it a more user friendly demo.
 
+And be sure to check the wiki as I have added a troubleshooting guide.
+
 Mark Eaton
